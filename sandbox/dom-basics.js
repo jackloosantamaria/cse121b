@@ -8,3 +8,7 @@ document.body.appendChild(newImage);
 const newDiv = document.createElement("div");
 newDiv.innerHTML = "<ul><li>One</li><li>Two</li><li>Three</li></ul>";
 document.body.appendChild(newDiv);
+const section = document.createElement('section');
+const h3 = document.createElement('h3');
+h3.textContent = 'Relief Society';
+document.body.appendChild(h3);
