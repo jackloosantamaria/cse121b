@@ -3,7 +3,7 @@ import { prophetsElement, prophetList, displayProphets, getProphets } from "./Mo
 //console.log(getProphets());
 // const prophetsElement = document.getElementById("prophets");
 // let prophetList = [];
-
+//
 // const displayProphets = (prophets) => {
 //     prophets.forEach((prophet) => {
 //         const profeta = document.createElement("profeta");
