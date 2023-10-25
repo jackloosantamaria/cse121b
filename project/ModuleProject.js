@@ -1,3 +1,5 @@
+//
+
 const prophetsElement = document.getElementById(`prophets`);
 let prophetList = [];
 
